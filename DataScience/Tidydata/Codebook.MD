@@ -184,6 +184,8 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 
 
 =============================================================================================================================================================
+Created by: Careme Carty
+Date: March 7, 2018
 
 ## Information on the tidy and clean data set
 

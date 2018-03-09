@@ -109,4 +109,8 @@ The script used to execute the process to obtain the tidy and clean data set.
 
 	head(final2Data[order(subject)][,c(1:4), with = FALSE],12)
 
+
+
 All steps have to be followed as each step is dependent on the previous step being carried out correctly and successfully. 
+
+Careme Carty
